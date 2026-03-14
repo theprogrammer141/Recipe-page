@@ -20,7 +20,8 @@ The goal was to build a clean, responsive recipe page using semantic HTML and CS
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/desktop-view.png)
+![](./design/mobile-view.png)
 
 ### Links
 
