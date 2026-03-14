@@ -24,8 +24,7 @@ The goal was to build a clean, responsive recipe page using semantic HTML and CS
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution link here](https://www.frontendmentor.io/)
-- Live Site URL: [Check here!](https://omelette-recipe-pageapp.netlify.app/m)
+- Live Site URL: [Check here!](https://omelette-recipe-pageapp.netlify.app/)
 
 ## My process
 
